@@ -4691,3 +4691,30 @@ h3.links:hover{
 		}
 
 	}
+
+	@media (max-width: 1280px) {
+		/* #dp {
+			width: 10%;
+		} */
+	}
+	@media (max-width: 980px) {
+		#dp {
+			width: 50%;
+		}
+	}
+	
+	@media (max-width: 736px) {
+		#dp {
+			width: 50%;
+		}
+	}
+	@media (max-width: 480px) {
+		#dp {
+			width: 50%;
+		}
+	}
+	@media (max-width: 360px) {
+		#dp {
+			width: 50%;
+		}
+	}
